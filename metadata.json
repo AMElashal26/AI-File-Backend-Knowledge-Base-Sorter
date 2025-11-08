@@ -1,0 +1,5 @@
+{
+  "name": "AI Knowledge Base Sorter",
+  "description": "An intelligent backend for your file system. Upload images or text files to have them automatically categorized, assigned to projects, and tagged using generative AI.",
+  "requestFramePermissions": []
+}
